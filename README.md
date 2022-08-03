@@ -16,9 +16,9 @@ php artisan key:generate
 ```env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
-DB_PORT=3360
-DB_DATABASE=laravel
-DB_USERNAME=root
+DB_PORT=
+DB_DATABASE=
+DB_USERNAME=
 DB_PASSWORD=
 ```
 
